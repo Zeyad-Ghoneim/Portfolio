@@ -1,11 +1,11 @@
 # Security Analyst
 
 ### Education
-Bachelor's of Computer Science at HIMIT.
-Microsoft Cybersecurity Analyst.
-Security+
-Google Cybersecurity Certificate.
-Network+
+- Bachelor's of Computer Science at HIMIT
+- Microsoft Cybersecurity Analyst.
+- Security+
+- Google Cybersecurity Certificate.
+- Network+
 
 ### Expierence 
 IT Trainee @ WEPCO
