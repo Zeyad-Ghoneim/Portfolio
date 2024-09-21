@@ -30,6 +30,6 @@ Detection and Monitoring Homelab using pfSense | Splunk, pfSense, Security Onion
 the logs collected.
 
 ### Technial Skills
--Programming languages : python, SQL, Bash, PowerShell,C++
--Technologies/Frameworks: Linux, SOAR, SEIM, MS AZURE, GDP, Github, OSINT
+-Programming languages : python, SQL, Bash, PowerShell,C++.
+-Technologies/Frameworks: Linux, SOAR, SEIM, MS AZURE, GDP, Github, OSINT.
 
