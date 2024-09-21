@@ -21,7 +21,7 @@ VMware.
 -Experimenting with different Operating Systems such as MacOS and Windows.
 -
 
-### projects 
+### Projects 
 Detection and Monitoring Homelab using pfSense | Splunk, pfSense, Security Onion,Kali linux
 - Configuring pfSense firewall for Network Segmentation and Security.
 - Configured Kali Linux as an attack machine and a Windows Server as a Domain Controller.
