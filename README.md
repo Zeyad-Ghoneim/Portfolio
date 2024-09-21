@@ -11,6 +11,7 @@
 IT Trainee @ WEPCO
 - Networking
 - SQL
+  
 IT Trainee @ EHO
 - routing and subnetting
 - Windows Server & AD
